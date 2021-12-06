@@ -38,7 +38,7 @@ html, body {
 }
 
 body {
-    background-color: var(--wine-red);
+    /* background-color: var(--wine-red); */
     height: 100vh;
 }
   
